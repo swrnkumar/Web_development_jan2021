@@ -32,4 +32,16 @@ for person in people:
         print(f"NO available seats on flight for {person}")
 
 
-# decorators practice
+# # decorators practice
+# def announce(f):
+#     def wrapper():
+#         print("About to run function.....")
+#         f()
+#         print("Done running function")
+#         return wrapper
+
+# @announce
+# def hello():
+#     print("Hello world")
+
+# hello()
