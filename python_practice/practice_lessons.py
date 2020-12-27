@@ -2,7 +2,7 @@ print("Hello world!")
 name = input("Enter your name:")
 print(f"Hello, {name}")
 
-#conditions
+# conditions
 n = int(input("Enter a number: "))
 if n > 0:
     print("The number  n  is positive ")
@@ -11,7 +11,7 @@ elif n < 0:
 else:
     print("The number is zero")
 
-#sequences, lists practice
+# sequences, lists practice
 nameH = "Harry"
 print(nameH[0])
 names1 = ["Harry", "Leo", "Sarah", "Lara"]
