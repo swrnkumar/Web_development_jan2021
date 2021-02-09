@@ -3,4 +3,4 @@ from django.shortcuts import render
 
 # Create your views here.
 def index(request):
-    return HttpResponse("First recipe")
+    return HttpResponse("Welcome to my blog. This is my first recipe")
