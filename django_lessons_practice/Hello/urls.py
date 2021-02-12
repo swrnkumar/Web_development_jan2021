@@ -1,7 +1,7 @@
-from django.urls import path
+# from django.urls import path
 
-from . import views
+# from . import views
 
-urlspatterns = [
-    path("", views.index, name="index")
-]
+# urlspatterns = [
+#     path("", views.index, name="index")
+# ]
